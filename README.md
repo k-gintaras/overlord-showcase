@@ -1,6 +1,7 @@
 # Taskorator
 
 ![logo](/readme-resources/generated-app-logo.png)
+![link](https://taskorator.web.app/)
 
 A practical hierarchical task management application built with Angular, focusing on efficient task organization and straightforward data management.
 
